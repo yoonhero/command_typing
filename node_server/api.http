@@ -1,0 +1,13 @@
+### 
+GET http://localhost:3000/
+
+### 
+POST http://localhost:3000/ranking 
+
+{
+  "username": "yoonhero", 
+  "score": "15"
+}
+
+### 
+GET http://localhost:3000/ranking
