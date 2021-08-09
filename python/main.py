@@ -1,3 +1,3 @@
-from typingtest import typingtest
+from typingtest import typinggame
 
-typingtest()
+typinggame()
